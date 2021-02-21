@@ -1,8 +1,8 @@
 
 ## Hello friend
-I have been working with software development since 2008, today I'm a Backend engineer and sometimes adventure myself in the land of Frontends
+I have been working with software development since 2008, today I'm a Backend engineer and sometimes I venture into the land of Frontends.
 
-Working with Salesforce since 2013, the ecosystem around Sales and Service Clouds become my main focus.
+Working with Salesforce since 2013, the ecosystem around Sales and Service clouds has become my primary focus.
 
 ### Exploring for fun
 - Game Development
